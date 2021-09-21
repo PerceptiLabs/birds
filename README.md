@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Blood detection in Dark-field Microscopy Images
+# Birds classification over 300 species
 
 This dataset<sup>1</sup> contains 40919 images from 285 classes of birds. The classificaton of birds involves the grouping of birds into categories according to physiological similarities, this classification is also known as taxonomy, and involves a complex expertise. The most imortant reason to study birds is to further our understanding of the ecosystem that support all life on earth. Birds are a critical element to nearly every ecosystem on earth, and their fate is intertwined with ours. Have a good classification and control over birds can help understand better migrations and other characteristics to help the earth.
 
